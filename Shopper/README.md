@@ -22,3 +22,18 @@ Now, paste this "./src/**/*.{js,jsx,ts,tsx}" on conent in tailwind configuration
 @tailwind utilities;
 
 Now, Tailwind is Ready for Project
+
+# clearing un-necessary code and deleting un-necessary files
+-> clean App.css
+-> clear App.js header section
+-> delete couterSlice.spec file in features
+-> also App.css file delete it
+-> clear the random imports who're using decrement, odd etc. 
+-> clear Counter.js and keep only div part in only only return part
+
+install extension of tailwind css intellisense in vscode
+
+_____________________________________________________________________
+
+## in features, we'll have a component file, it's api file and slice file like we have counter component contain counter.js, counterAPI.js, counterSlice.js
+## and so on, we create our components in features following this style.
