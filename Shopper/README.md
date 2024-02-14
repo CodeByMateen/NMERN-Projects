@@ -21,6 +21,9 @@ Now, paste this "./src/**/*.{js,jsx,ts,tsx}" on conent in tailwind configuration
 @tailwind components;
 @tailwind utilities;
 
+Add, '@tailwindcss/aspect-ratio' in plugins in tailwindcss configuration file
+also do, npm install @tailwindcss/aspect-ratio
+
 Now, Tailwind is Ready for Project
 
 # clearing un-necessary code and deleting un-necessary files
