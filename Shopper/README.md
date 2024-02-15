@@ -46,3 +46,8 @@ _____________________________________________________________________
 
 ## in features, we'll have a component file, it's api file and slice file like we have counter component contain counter.js, counterAPI.js, counterSlice.js
 ## and so on, we create our components in features following this style.
+
+_____________________________________________________________________
+
+# we have made react app router in app.js file.
+to enable it we have use this command: npm i react-router-dom
