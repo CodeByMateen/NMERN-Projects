@@ -11,18 +11,24 @@ npm install tailwindcss@latest
 ## after installation of tailwing, use the command to initialize it
 npx tailwindcss init 
 
-## the configure file of tailwing created, now go to the site
+## the configure file of tailwind created, now go to the site
 https://tailwindcss.com/docs/guides/create-react-app
 
 Now, paste this "./src/**/*.{js,jsx,ts,tsx}" on conent in tailwind configuration
 
-## In index. css, paste these decorators
+## In index.css, paste these decorators at Top
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 Add, '@tailwindcss/aspect-ratio' in plugins in tailwindcss configuration file
 also do, npm install @tailwindcss/aspect-ratio
+
+also do the same with '@tailwindcss/forms'
+
+now, install: npm i @headlessui/react @heroicons/react
+
+Similarly, for each tailwind component, checkout the instructions given to use them which is already present in code having commented out
 
 Now, Tailwind is Ready for Project
 

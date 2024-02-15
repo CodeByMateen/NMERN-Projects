@@ -1,0 +1,3 @@
+The components are present inside features folder in app folder. it contains various components folder, each folder component contains the component name file, it's api file and slice file. e.g. productList component folder contains productList.js, productListAPI.js, productListSlice.js
+
+The pages folder contains the whole page, e.g. login page, signup page, home page. It's an entire page consisting of various components.
