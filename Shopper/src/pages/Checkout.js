@@ -30,20 +30,20 @@ const products = [
 
 const addresses = [
   {
-    name: 'John wick',
-    street: '11th Main',
-    city: 'Delhi',
+    name: 'Mateen Shahzad',
+    street: 'C2 Block CII, Johar Town',
+    city: 'Lahore',
     pinCode: 110001,
-    state: 'Delhi',
-    phone: 12312321331,
+    state: 'Punjab',
+    phone: 923210000000,
   },
   {
-    name: 'John Doe',
-    street: '15th Main',
-    city: 'Bangalore',
+    name: 'Mateen Shahzad',
+    street: 'Old Post Office Street',
+    city: 'Sheikhupura',
     pinCode: 560034,
-    state: 'Karnataka',
-    phone: 123123123,
+    state: 'Punjab',
+    phone: 923550000000,
   },
 ];
 

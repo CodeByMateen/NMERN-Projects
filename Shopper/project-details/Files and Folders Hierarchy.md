@@ -8,3 +8,5 @@ we have set react router in app.js, it's like a amusement park map which tells a
 ## have a look at app.js file
 
 for interlink, i.e. moving from sign in to sign etc. we use link to="/path" instead of a href, ## checkout code in login.js
+
+checkout page, as name is defining what it is
